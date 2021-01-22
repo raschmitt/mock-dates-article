@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mock-dates-article", "mock-dates-article\mock-dates-article.csproj", "{B694CB3F-5EA8-40E2-89D6-511E37B9A0B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B694CB3F-5EA8-40E2-89D6-511E37B9A0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B694CB3F-5EA8-40E2-89D6-511E37B9A0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B694CB3F-5EA8-40E2-89D6-511E37B9A0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B694CB3F-5EA8-40E2-89D6-511E37B9A0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
